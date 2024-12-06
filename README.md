@@ -1,4 +1,4 @@
-<h2 align="left">Hello there 👋! I'm Aditya Dhamanekar, a dedicated and enthusiastic programmer.</h2>
+<h2 align="left">Hello there 👋! I'm Harshad pawale, a dedicated and enthusiastic programmer.</h2>
 
 
 
