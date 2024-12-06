@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
 
 ###
@@ -56,7 +56,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
   <img width="12" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fadobe-premiere.en.softonic.com%2F&psig=AOvVaw2vatltXtonPKIxlA9giqOx&ust=1733575677028000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPiH25GXk4oDFQAAAAAdAAAAABAE" height="40" alt="adobepremierepro logo"  />
+  <img src="images.jpg" height="40" alt="adobepremierepro logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
   <img width="12" />
