@@ -62,7 +62,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
-  <img src="Figma-Dark.svg" height="40" alt="figma"  />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Ffigmas-new-icon--342766221631228709%2F&psig=AOvVaw2BVXBxCsjzju1_jzU5AjDR&ust=1735975162378000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIia_smB2YoDFQAAAAAdAAAAABAE" height="40" alt="figma"  />
   <img width="12" />
 </div>
 
